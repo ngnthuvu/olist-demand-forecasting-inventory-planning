@@ -108,21 +108,6 @@ Notebook: `notebooks/Olist_Demand_Forecasting_DuckDB_Colab.ipynb`
 
 ---
 
-## Sample Figures
-
-### Forecast Error by Category
-
-![Forecast Error by Category](figures/best_mae_by_category.png)
-
-### Planning Action Distribution
-
-![Planning Action Distribution](figures/planning_action_distribution.png)
-
-### Demand Variability vs Forecast Error
-
-![Demand Variability vs Forecast Error](figures/cv_vs_best_mae.png)
-
----
 
 ## Repository Structure
 
