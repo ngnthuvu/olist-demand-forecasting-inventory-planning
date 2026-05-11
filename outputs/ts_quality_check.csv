@@ -1,0 +1,6 @@
+check_name,expected_value,actual_value,passed
+mart_row_count_positive,> 0,62077,True
+timeseries_row_count,200,200,True
+forecast_summary_row_count,10,10,True
+no_missing_final_recommendation,0,0,True
+selected_categories_present,10,10,True
